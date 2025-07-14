@@ -1,0 +1,17 @@
+# 6D Pose Estimation Requirements
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyrealsense2>=2.54.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Additional utilities
+typing-extensions>=4.0.0
+collections-extended>=2.0.0
+
+# Optional: for better performance
+# torch-cuda  # Uncomment if using CUDA 
