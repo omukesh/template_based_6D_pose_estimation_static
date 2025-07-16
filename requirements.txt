@@ -14,4 +14,4 @@ typing-extensions>=4.0.0
 collections-extended>=2.0.0
 
 # Optional: for better performance
-# torch-cuda  # Uncomment if using CUDA 
+# torch-cuda   
