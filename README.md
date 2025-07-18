@@ -119,7 +119,7 @@ template_matched_6D_pose_using_object_detection/
 
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
+git clone https://github.com/omukesh/template_based_6D_pose_estimation_static.git
 cd template_matched_6D_pose_using_object_detection
 ```
 
